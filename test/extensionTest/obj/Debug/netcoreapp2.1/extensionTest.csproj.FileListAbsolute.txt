@@ -1,0 +1,17 @@
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionTest.deps.json
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionTest.runtimeconfig.json
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionTest.runtimeconfig.dev.json
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionTest.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionTest.pdb
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionlib.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\bin\Debug\netcoreapp2.1\extensionlib.pdb
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.csprojAssemblyReference.cache
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.AssemblyInfoInputs.cache
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.AssemblyInfo.cs
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.csproj.CopyComplete
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.dll
+C:\Users\srikanth\Source\extension\test\extensionTest\obj\Debug\netcoreapp2.1\extensionTest.pdb

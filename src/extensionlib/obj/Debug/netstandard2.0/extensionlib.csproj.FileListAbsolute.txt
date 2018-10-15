@@ -1,0 +1,9 @@
+C:\Users\srikanth\Source\extension\src\extensionlib\bin\Debug\netstandard2.0\extensionlib.deps.json
+C:\Users\srikanth\Source\extension\src\extensionlib\bin\Debug\netstandard2.0\extensionlib.dll
+C:\Users\srikanth\Source\extension\src\extensionlib\bin\Debug\netstandard2.0\extensionlib.pdb
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.csprojAssemblyReference.cache
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.AssemblyInfoInputs.cache
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.AssemblyInfo.cs
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.dll
+C:\Users\srikanth\Source\extension\src\extensionlib\obj\Debug\netstandard2.0\extensionlib.pdb
